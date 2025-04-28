@@ -1,3 +1,4 @@
+namespace 'com.shashankPandit.smart_garden_app'
 group 'io.github.edufolly.flutterbluetoothserial'
 version '1.0-SNAPSHOT'
 buildscript {
